@@ -1,6 +1,7 @@
 # Questions for Lab 10!
 
 ### Question 1: What happens when you swap the delimiter from commas to tabs? How does the preview change? 
+All of the data was organized as if tab was seperating the values in the document instead of ","
 (Make sure "disable live preview is not checked if you don't see a change)
 
 ### Question 2: Try sorting the scientificName facet by name and by count. What problems are there with the data?
