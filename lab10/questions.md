@@ -5,13 +5,18 @@ All of the data was organized as if tab was seperating the values in the documen
 (Make sure "disable live preview is not checked if you don't see a change)
 
 ### Question 2: Try sorting the scientificName facet by name and by count. What problems are there with the data?
+it looks like the only issue is some consistency with spaces and characters.
 
 ### Question 3: Use faceting to figure out the following:
 #### How many different years are represented in this file?
 #### What year occurs the most times?
 #### What year occurs the least number of times?
+How many different years: 16
+What year occurs the most times: 1978
+Least number of times: 1993
 
 ### Question 4: What happens when you make a numerical facet of column note1, then convert the column to numbers? Is something different about the facet compared to yr?
+
 
 ### Question 5: Click and drag on the scatterplot facet you made to highlight a rectangle. What happens to the data points being displayed?
 
