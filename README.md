@@ -12,3 +12,6 @@ We have been working on terminal commands, Markdown commands, exploring what it 
 |Week 2|Command Line Basics|-|
 |Week 3|Work With Files|-|
 |Week 4|Markdown|This Readme|
+
+
+A test update
