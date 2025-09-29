@@ -14,4 +14,6 @@ We have been working on terminal commands, Markdown commands, exploring what it 
 |Week 4|Markdown|This Readme|
 
 
-A test update
+A test update (adding from gitdesk and pushing and commiting to github)
+
+a test update to pull from git to gitdesk
